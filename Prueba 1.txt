@@ -3,3 +3,5 @@ remera
 jean
 campera
 bufanda
+gorro
+zapatillas
