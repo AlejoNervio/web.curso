@@ -1,0 +1,5 @@
+camisa
+remera
+jean
+campera
+bufanda
